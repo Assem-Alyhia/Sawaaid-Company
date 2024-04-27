@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="242" height="242" viewBox="0 0 242 242">
+  <g id="Group_954" data-name="Group 954" transform="translate(-835 -1707)">
+    <circle id="Ellipse_64" data-name="Ellipse 64" cx="121" cy="121" r="121" transform="translate(835 1707)" fill="#4352a3"/>
+    <g id="vuesax_bold_hierarchy-square" data-name="vuesax/bold/hierarchy-square" transform="translate(452.749 1564.749)">
+      <g id="hierarchy-square" transform="translate(428 188)">
+        <path id="Vector" d="M0,0H150.5V150.5H0Z" fill="none" opacity="0"/>
+        <path id="Vector-2" data-name="Vector" d="M88.984,0H36.434C13.608,0,0,13.608,0,36.434V88.921c0,22.889,13.608,36.5,36.434,36.5H88.921c22.826,0,36.434-13.608,36.434-36.434V36.434C125.418,13.608,111.81,0,88.984,0ZM49.227,90.615A12.855,12.855,0,1,1,31.668,78.7V51.8a13.8,13.8,0,1,1,9.406,0V78.7A12.851,12.851,0,0,1,49.227,90.615ZM92.5,103.47a12.826,12.826,0,0,1-4.7-24.77V42.329a1.552,1.552,0,0,0-1.568-1.568H79.139l1.317,1.066a4.705,4.705,0,0,1-3.01,8.34,4.9,4.9,0,0,1-3.01-1.066L63.148,39.695a4.753,4.753,0,0,1,0-7.274l11.288-9.406a4.755,4.755,0,0,1,6.647.627,4.7,4.7,0,0,1-.627,6.647l-1.317,1.066h7.086A11.027,11.027,0,0,1,97.2,42.329V78.7a12.826,12.826,0,0,1-4.7,24.77Z" transform="translate(12.542 12.542)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

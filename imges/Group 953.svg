@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="242" height="242" viewBox="0 0 242 242">
+  <g id="Group_953" data-name="Group 953" transform="translate(-1325 -1645)">
+    <circle id="Ellipse_63" data-name="Ellipse 63" cx="121" cy="121" r="121" transform="translate(1325 1645)" fill="#4352a3"/>
+    <g id="vuesax_bold_scroll" data-name="vuesax/bold/scroll" transform="translate(1259.766 1377)">
+      <g id="scroll" transform="translate(108 316)">
+        <path id="Vector" d="M92.512,0H37.878C14.147,0,0,14.147,0,37.878V92.447c0,23.8,14.147,37.943,37.878,37.943H92.447c23.731,0,37.878-14.147,37.878-37.878V37.878C130.39,14.147,116.243,0,92.512,0ZM53,81.494A4.919,4.919,0,0,1,53,88.4a4.879,4.879,0,0,1-6.911,0L29.859,72.171a9.8,9.8,0,0,1,0-13.887L46.093,42.051A4.887,4.887,0,0,1,53,48.961L36.77,65.2Zm47.527-9.388L84.3,88.339a4.879,4.879,0,0,1-6.911,0,4.919,4.919,0,0,1,0-6.911L93.62,65.2,77.386,48.9A4.887,4.887,0,0,1,84.3,41.986l16.234,16.234A9.8,9.8,0,0,1,100.531,72.106Z" transform="translate(13.039 13.039)" fill="#fff"/>
+        <path id="Vector-2" data-name="Vector" d="M0,0H156.468V156.468H0Z" transform="translate(156.468 156.468) rotate(180)" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>
